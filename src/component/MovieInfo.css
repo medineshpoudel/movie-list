@@ -1,0 +1,9 @@
+.movie-card {
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+  height: 150px;
+}
+.movie-card:hover {
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
