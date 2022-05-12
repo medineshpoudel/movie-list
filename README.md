@@ -16,6 +16,8 @@
 
 ## Folder Structure:
 1. Folder stucture of the app can be seen below.
+
+
 ![movie-list-folderStructure](https://user-images.githubusercontent.com/38976219/167992536-394757e5-c3d6-4904-bf66-751eec6ce52c.JPG)
 
 2. The main movie-list page is created inside the `pages` folder.
