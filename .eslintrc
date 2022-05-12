@@ -9,8 +9,7 @@
     "sourceType": "module",
     "project": "./tsconfig.json"
   },
-  "extends": ["prettier"],
-  "plugins": ["react", "react-hooks", "@typescript-eslint", "jest"],
+
   "env": {
     "browser": true,
     "es6": true,
