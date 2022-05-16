@@ -1,4 +1,5 @@
 # Movie-list
+ LINK: https://dinesh-movielist.netlify.app/
 1. Movie-list app successfully created
 2. The app contains a list of movie where the details about the movies can be seen.
 3. The list conatains three `cards`. Each contains a movie poster and the detail about the movie.
